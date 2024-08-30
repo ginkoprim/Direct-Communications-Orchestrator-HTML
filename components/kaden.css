@@ -1,0 +1,30 @@
+.kaden-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.kaden-product {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.kaden-image {
+  width: 200px;
+  object-fit: cover;
+}
+.kaden-fragment1 {
+  display: contents;
+}
+.kaden-text3 {
+  display: inline-block;
+}
+.kaden-fragment2 {
+  display: contents;
+}
+.kaden-text4 {
+  display: inline-block;
+}
